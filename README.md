@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Smart Dolphin Hunter
+Copyright (c) 2026 Smart Dolphin Hunter
 
 Permission is hereby granted...
 ```
